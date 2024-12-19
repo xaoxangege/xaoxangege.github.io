@@ -2,7 +2,7 @@ import requests
 from github import Github
 
 # GitHub API Token
-GITHUB_TOKEN = 'youtuken'
+GITHUB_TOKEN = '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'
 REPO_NAME = 'xaoxangege.github.io'
 FILE_PATH = 'index.html'  # 上传的文件路径为根目录
 
